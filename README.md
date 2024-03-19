@@ -1,4 +1,4 @@
-# Telecom-Customer-Churn-Analysis
+# Telecom Customer Churn Analysis
 **Introduction:** In the dynamic landscape of the telecom industry, customer churn remains a critical concern for companies aiming to retain and expand their customer base. In this data-driven exploration, I've explored the dataset provided by Databel (source: [DataCamp](https://www.linkedin.com/school/datacampinc/)), a fictional telecom company, to uncover patterns, trends, and insights that shed light on customer churn.
 
 **Problem Statement:** Databel is witnessing an increasing churn rate, necessitating a comprehensive analysis to pinpoint the crucial factors contributing to customer attrition. The company seeks to comprehend the causes of churn, identify the demographic segments most impacted, and explore potential areas for intervention.
